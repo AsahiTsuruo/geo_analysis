@@ -1,1 +1,1 @@
-# geo_analysis
+# geographical analysis
